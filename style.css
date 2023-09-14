@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    scroll-behavior: smooth;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* border: 3px solid red; */
+}
+
+.heading-font{
+    color: aliceblue;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.heading-font-h1{
+    font-size: 35px;
+}
+
+.heading-font-h3{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    
+}
+
+
+.main-img{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-img, img{
+    
+    height: 550px;
+}
+
+.bio{
+    color: aliceblue;
+    text-align: center;
+}
+
+
+.bio h1{
+    margin: 50px;
+    padding: 10px;
+    font-size: 40px;
+}
+
+.bio p{
+    text-wrap: wrap;
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+

@@ -39,19 +39,23 @@
 
 .bio{
     color: aliceblue;
-    text-align: center;
+    /* text-align: center; */
 }
 
 
 .bio h1{
-    margin: 50px;
+    
+    margin-top: 60px;
+    margin-left: 110px;
+    margin-bottom: 30px;
     padding: 10px;
     font-size: 40px;
 }
 
 .bio p{
-    text-wrap: wrap;
+    /* text-wrap: wrap; */
     font-size: 25px;
     margin-bottom: 100px;
+    margin-left: 120px;
 }
 
